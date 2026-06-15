@@ -48,4 +48,4 @@ python app.py
 ***
 
 ## 👨‍💻 Developed By
-•	Developer: Priyanshu Vijay
+•	Developer: [Priyanshu Vijay](/https://github.com/Butkii025)
