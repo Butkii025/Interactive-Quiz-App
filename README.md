@@ -22,7 +22,11 @@ Quiz-Application/
 ├── .gitignore             # Git configuration
 └── README.md              # Instructions manual
 ```
+***
+## Appearance
+<img width="577" height="398" alt="Screenshot 2026-06-14 025436" src="https://github.com/user-attachments/assets/725fce46-4413-4d0f-9b2a-8515938cb4b2" />
 
+***
 ## Installation & Local Execution Roadmap
 #### Prerequisites
 •	Python 3.8 or higher installed on the client machine.
