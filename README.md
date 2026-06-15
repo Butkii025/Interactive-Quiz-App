@@ -16,11 +16,10 @@ An object-oriented desktop application operates through CLI, designed to stream 
 ## 📂 File Structure
 
 ```text
-Quiz-Application/
-│
-├── quiz_app.py            # Object-oriented source file mapping questions and views
+Interactive-Quiz-App/
+├── app.py                 # Object-oriented source file mapping
 ├── .gitignore             # Git configuration
-└── README.md              # Instructions manual
+└── README.md              # Instructions manual also carry Visual Apperance of App
 ```
 ***
 ## Appearance
