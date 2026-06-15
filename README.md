@@ -1,6 +1,6 @@
 # Interactive Quiz Application
 
-An object-oriented desktop application designed to stream multi-choice question pools, monitor active user state metrics, and deliver instant analytical grading. Built utilizing clean software component architecture to separate state-tracking from visual display controls.
+An object-oriented desktop application operates through CLI, designed to stream multi-choice question pools, monitor active user state metrics, and deliver instant analytical grading. Built utilizing clean software component architecture to separate state-tracking from visual display controls.
 
 ---
 
